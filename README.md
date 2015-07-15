@@ -1,4 +1,4 @@
 # Ecosytem Design Language
-A new visual vocabulary to design ecosystems of software, services and hardware
+A visual modelling language to design ecosystems of devices integrating hardware and software.
 
-The goal is to work on it during the summer and present it on O'Reilly Design conference
+The goal is to present it on O'Reilly Design conference in Jan 2016.
